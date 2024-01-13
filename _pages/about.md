@@ -24,15 +24,19 @@ Please feel free to reach out via [hongjiewang@princeton.edu](hongjiewang@prince
 
   **Hongjie Wang**, Difan Liu, Yan Kang, Yijun Li, Zhe Lin, Niraj K. Jha, Yuchen Liu
 
-  ![https://hongjiew.github.io/files/overview.png]()
+  ![AT-EDM](https://hongjiew.github.io/files/ATEDM.png)
 
-  **Highlight:** We reduce the FLOPs of the state-of-the-art open-source diffusion model, [SD-XL](https://github.com/Stability-AI/generative-models), by 40% while keeping its FID and CLIP scores. 
+  **Highlight:** We introduce the Attention-driven Training-free Efficient Diffusion Model (**AT-EDM**), a framework that leverages attention maps to perform run-time pruning of redundant tokens during inference **without retraining** **or** performing GPU-intensive **optimization** on a certain loss function. AT-EDM reduces the FLOPs of the state-of-the-art open-source diffusion model, [SD-XL](https://github.com/Stability-AI/generative-models), by **40%** while keeping its FID and CLIP scores. 
 
   The *arXiv* link and project webpage is coming soon
 
 - Zero-TPrune: Zero-Shot Token Pruning through Leveraging of the Attention Graph in Pre-Trained Transformers
 
   **Hongjie Wang**, Bhishma Dedhia, Niraj K. Jha
+
+  ![Zero-TPrune](https://hongjiew.github.io/files/zero-tprune.png)
+
+  **Highlight:** We propose Zero-TPrune, the first zero-shot method that considers both the importance and similarity of tokens in performing token pruning. It leverages the attention graph of pre-trained Transformer models to produce an importance distribution for tokens via our proposed Weighted Page Rank (WPR) algorithm. It can be deployed on large Vision Transformers at negligible computational cost. Without any fine-tuning, Zero-TPrune reduces the FLOPs cost of DeiT-S by 34.7% and improves its throughput by 45.3% with only 0.4% accuracy loss.
 
   *arXiv*:2305.17328 [[paper](https://arxiv.org/abs/2305.17328)] (The project webpage is coming soon)
 
