@@ -54,7 +54,7 @@ Please feel free to reach out via [hongjiewang@princeton.edu](hongjiewang@prince
 
   Haitong Li, Wei-Chen Chen, Akash Levy, Ching-Hua Wang, **Hongjie Wang**, Po-Han Chen, Weier Wan, H.-S. Philip Wong, Priyanka Raina
 
-  ![one-shot](https://hongjiew.github.io/files/one-shot.png)
+  <img src="https://hongjiew.github.io/files/one-shot.png" alt="one-shot" width="60%">
 
   **Highlight:** Using only one example per class for 32 unseen classes during on-chip learning, our AM chip achieves ~72% measured inference accuracy on Omniglot as the first chip accuracy report compared to software accuracy (~82%), while reaching 118 GOPS/W for in-memory L1 distance computation and prediction. 
 
