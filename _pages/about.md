@@ -10,6 +10,10 @@ redirect_from:
 
 I am Hongjie Wang (王泓杰), a third-year Ph.D. candidate in the [Department of Electrical and Computer Engineering](https://ece.princeton.edu/) at Princeton University, supervised by [Prof. Niraj K. Jha](https://scholar.google.com/citations?user=R-z1R84AAAAJ&hl=en&oi=ao). Before that, I received my B.S. degree with honor from Peking University (June 2021). I worked with [Prof. Yingyan Lin](https://eiclab.scs.gatech.edu/pages/team.html) and [Prof. Priyanka Raina](https://priyanka-raina.github.io/) as a research intern at Rice University and Stanford University, respectively.
 
+My research focues on the efficiency of Machine Learning models, including but not limited to: (1) Vision Transformers; (2) Diffusion Models; (3) Vision-Language Models (Multimodal Generative Models); (4) State Space Models. You can find more information in my [CV](https://hongjiew.github.io/files/resume.pdf). 
+
+Please feel free to reach out via hongjiewang@princeton.edu if you share similar interests with me! I am glad to chat and open to exploring opportunities for collaboration.
+
 ## Recent News
 
 - 2024-01: Give a Talk to Qualcomm on Zero-TPrune [slides]
