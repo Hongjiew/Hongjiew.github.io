@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am Hongjie Wang (王泓杰), a third-year Ph.D. candidate in the [Department of Electrical and Computer Engineering](https://ece.princeton.edu/) at Princeton University, supervised by [Prof. Niraj Jha](https://scholar.google.com/citations?user=R-z1R84AAAAJ&hl=en&oi=ao). Before that, I received my B.S. degree with honor from Peking University (June 2021). I worked with [Prof. Yingyan Lin](https://eiclab.scs.gatech.edu/pages/team.html) and [Prof. Priyanka Raina](https://priyanka-raina.github.io/) as a research intern at Rice University and Stanford University, respectively.
+I am Hongjie Wang (王泓杰), a third-year Ph.D. candidate in the [Department of Electrical and Computer Engineering](https://ece.princeton.edu/) at Princeton University, supervised by [Prof. Niraj K. Jha](https://scholar.google.com/citations?user=R-z1R84AAAAJ&hl=en&oi=ao). Before that, I received my B.S. degree with honor from Peking University (June 2021). I worked with [Prof. Yingyan Lin](https://eiclab.scs.gatech.edu/pages/team.html) and [Prof. Priyanka Raina](https://priyanka-raina.github.io/) as a research intern at Rice University and Stanford University, respectively.
 
 ## Recent News
 
-- 2024-01: Give a Talk to Qualcomm on Zero-TPrune
+- 2024-01: Give a Talk to Qualcomm on Zero-TPrune [slides]
 
 ## Publications and Preprints
 
@@ -25,6 +25,8 @@ I am Hongjie Wang (王泓杰), a third-year Ph.D. candidate in the [Department o
 - Zero-TPrune: Zero-Shot Token Pruning through Leveraging of the Attention Graph in Pre-Trained Transformers
 
   **Hongjie Wang**, Bhishma Dedhia, Niraj K. Jha
+
+  *arXiv*:2305.17328 [[paper](https://arxiv.org/abs/2305.17328)]
 
 - SAPIENS: A 64-kb RRAM-Based Non-Volatile Associative Memory for One-Shot Learning and Inference at the Edge
 
