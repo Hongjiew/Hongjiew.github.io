@@ -12,11 +12,11 @@ I am Hongjie Wang (王泓杰), a third-year Ph.D. candidate in the [Department o
 
 My research focues on the efficiency of Machine Learning models, including but not limited to: (1) Vision Transformers; (2) Diffusion Models; (3) Vision-Language Models (Multimodal Generative Models); (4) State Space Models. You can find more information in my [CV](https://hongjiew.github.io/files/resume.pdf). 
 
-Please feel free to reach out via hongjiewang@princeton.edu if you share similar interests with me! I am glad to chat and open to exploring opportunities for collaboration.
+Please feel free to reach out via hongjiewang@princeton.edu if you share similar interests with me! I am glad to chat explore opportunities for collaboration.
 
 ## Recent News
 
-- 2024-01: Give a Talk to Qualcomm on Zero-TPrune [slides]
+- 2024-01: Give a Talk to Qualcomm on Zero-TPrune [[slides](https://hongjiew.github.io/files/Talk_Qualcomm.pdf)]
 
 ## Publications and Preprints
 
@@ -36,19 +36,19 @@ Please feel free to reach out via hongjiewang@princeton.edu if you share similar
 
   Haitong Li, Wei-Chen Chen, Akash Levy, Ching-Hua Wang, **Hongjie Wang**, Po-Han Chen, Weier Wan, Win-San Khwa, Harry Chuang, Y.-D. Chih, Meng-Fan Chang, H.-S. Philip Wong, Priyanka Raina.
 
-  *IEEE Transactions on Electron Devices (2021)*
+  *IEEE Transactions on Electron Devices (2021)* [paper]
 
 - One-Shot Learning with Memory-Augmented Neural Networks Using a 64-kbit, 118 GOPS/W RRAM-Based Non-Volatile Associative Memory
 
   Haitong Li, Wei-Chen Chen, Akash Levy, Ching-Hua Wang, **Hongjie Wang**, Po-Han Chen, Weier Wan, H.-S. Philip Wong, Priyanka Raina
 
-  *IEEE Symposia on VLSI Technology and Circuits (VLSI) 2021*
+  *IEEE Symposia on VLSI Technology and Circuits (VLSI) 2021* [paper]
 
 - A New MRAM-based Process In-Memory Accelerator for Efficient Neural Network Training with Floating Point Precision
 
   **Hongjie Wang**, Yang Zhao, Chaojian Li, Yue Wang, Yingyan Lin
 
-  *IEEE International Symposium on Circuits and Systems (ISCAS) 2020* **(Oral)**
+  *IEEE International Symposium on Circuits and Systems (ISCAS) 2020* <span style="color: red;">**(Oral)**</span> [paper]
 
 ## Selected Awards
 
