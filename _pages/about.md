@@ -10,11 +10,11 @@ redirect_from:
 
 I am Hongjie Wang (王泓杰), a third-year Ph.D. candidate in the [Department of Electrical and Computer Engineering](https://ece.princeton.edu/) at Princeton University, supervised by [Prof. Niraj Jha](https://scholar.google.com/citations?user=R-z1R84AAAAJ&hl=en&oi=ao). Before that, I received my B.S. degree with honor from Peking University (June 2021). I worked with [Prof. Yingyan Lin](https://eiclab.scs.gatech.edu/pages/team.html) and [Prof. Priyanka Raina](https://priyanka-raina.github.io/) as a research intern at Rice University and Stanford University, respectively.
 
-### Recent News
+## Recent News
 
 - 2024-01: Give a Talk to Qualcomm on Zero-TPrune
 
-### Publications and Preprints
+## Publications and Preprints
 
 - Attention-Driven Training-Free Efficiency Enhancement of Diffusion Models
 
@@ -44,7 +44,7 @@ I am Hongjie Wang (王泓杰), a third-year Ph.D. candidate in the [Department o
 
   *IEEE International Symposium on Circuits and Systems (ISCAS) 2020* **(Oral)**
 
-### Selected Awards
+## Selected Awards
 
 - Fellowship in Natural Science and Engineering, Princeton University, 2021
 - Excellent Graduate, Peking University, 2021
