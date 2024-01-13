@@ -24,6 +24,10 @@ Please feel free to reach out via [hongjiewang@princeton.edu](hongjiewang@prince
 
   **Hongjie Wang**, Difan Liu, Yan Kang, Yijun Li, Zhe Lin, Niraj K. Jha, Yuchen Liu
 
+  ![https://hongjiew.github.io/files/overview.pdf]()
+
+  **Highlight:** We reduce the FLOPs of the state-of-the-art open-source diffusion model, [SD-XL](https://github.com/Stability-AI/generative-models), by 40% while keeping its FID and CLIP scores. 
+
   The *arXiv* link is coming soon
 
 - Zero-TPrune: Zero-Shot Token Pruning through Leveraging of the Attention Graph in Pre-Trained Transformers
