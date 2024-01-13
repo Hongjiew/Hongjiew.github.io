@@ -54,7 +54,7 @@ Please feel free to reach out via [hongjiewang@princeton.edu](hongjiewang@prince
 
   Haitong Li, Wei-Chen Chen, Akash Levy, Ching-Hua Wang, **Hongjie Wang**, Po-Han Chen, Weier Wan, H.-S. Philip Wong, Priyanka Raina
 
-  <img src="https://hongjiew.github.io/files/one-shot.png" alt="one-shot" width="60%">
+  <img src="https://hongjiew.github.io/files/one-shot.png" alt="one-shot" width="70%">
 
   **Highlight:** Using only one example per class for 32 unseen classes during on-chip learning, our AM chip achieves ~72% measured inference accuracy on Omniglot as the first chip accuracy report compared to software accuracy (~82%), while reaching 118 GOPS/W for in-memory L1 distance computation and prediction. 
 
@@ -64,7 +64,9 @@ Please feel free to reach out via [hongjiewang@princeton.edu](hongjiewang@prince
 
   **Hongjie Wang**, Yang Zhao, Chaojian Li, Yue Wang, Yingyan Lin
 
+  <img src="https://hongjiew.github.io/files/SOT-MRAM.png" alt="one-shot" width="70%">
   
+  **Highlight:** We propose a SOT-MRAM based digital Process In-Memory accelerator that supports floating point precision. It can achieve 3.3×, 1.8×, and 2.5× improvement in terms of energy, latency, and area, respectively, compared with a state-of-the-art PIM based DNN training accelerator.
   
   *IEEE International Symposium on Circuits and Systems (ISCAS) 2020* <span style="color: red;">**(Oral)**</span> [[paper](https://arxiv.org/abs/2003.01551)]
 
