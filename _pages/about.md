@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am Hongjie Wang (王泓杰), a third-year Ph.D. candidate in the [Department of Electrical and Computer Engineering](https://ece.princeton.edu/) at Princeton University, supervised by [Prof. Niraj K. Jha](https://scholar.google.com/citations?user=R-z1R84AAAAJ&hl=en&oi=ao). Before that, I received my B.S. degree with honor from Peking University (June 2021). I worked with [Prof. Yingyan Lin](https://eiclab.scs.gatech.edu/pages/team.html) and [Prof. Priyanka Raina](https://priyanka-raina.github.io/) as a research intern at Rice University and Stanford University, respectively.
+I am Hongjie Wang (王泓杰), a third-year Ph.D. candidate in the [Department of Electrical and Computer Engineering](https://ece.princeton.edu/) at Princeton University, supervised by Prof. [Niraj K. Jha](https://scholar.google.com/citations?user=R-z1R84AAAAJ&hl=en&oi=ao). Before that, I received my *B.S. degree with honor* from Peking University (June 2021). Mentored by Dr. [Yuchen Liu](https://lychenyoko.github.io/), I worked as a research scientist intern at [Adobe Research](https://research.adobe.com/). I also worked with Prof. [Yingyan Lin](https://eiclab.scs.gatech.edu/pages/team.html) and Prof. [Priyanka Raina](https://priyanka-raina.github.io/) as a research intern at Rice University and Stanford University, respectively. You can find more information in my [CV](https://hongjiew.github.io/files/resume.pdf). 
 
-My research focues on the efficiency of Machine Learning models, including but not limited to: (1) Vision Transformers; (2) Diffusion Models; (3) Vision-Language Models (Multimodal Generative Models); (4) State Space Models. You can find more information in my [CV](https://hongjiew.github.io/files/resume.pdf). 
+My research focuses on the efficiency of Machine Learning models, including but not limited to: (1) Vision Transformers, (2) Diffusion Models, (3) Vision-Language Models (Multimodal Generative Models), and (4) State Space Models. My research aims to make their training and inference more efficient and thus enable scaling them up for generation with higher quality. My recent projects focus on the hardware-agnostic efficiency enhancement of them, but I am also interested in the software-hardware co-design to boost their throughputs.
 
-Please feel free to reach out via [hongjiewang@princeton.edu](hongjiewang@princeton.edu) if you share similar interests with me! I am glad to chat explore opportunities for collaboration.
+Please feel free to reach out via hongjiewang@princeton.edu if you share interests similar to mine! I am glad to chat and explore opportunities for collaboration.
 
 ## Recent News
 
@@ -69,6 +69,12 @@ Please feel free to reach out via [hongjiewang@princeton.edu](hongjiewang@prince
   **Highlight:** We propose a SOT-MRAM based digital Process In-Memory accelerator that supports floating point precision. It can achieve 3.3×, 1.8×, and 2.5× improvement in terms of energy, latency, and area, respectively, compared with a state-of-the-art PIM based DNN training accelerator.
   
   *IEEE International Symposium on Circuits and Systems (ISCAS) 2020* <span style="color: red;">**(Oral)**</span> [[paper](https://arxiv.org/abs/2003.01551)]
+
+## Work Experience
+
+- Adobe Research, research scientist intern, May 2023 - present
+- Stanford University, research intern, June 2020 - Sep 2020
+- Rice University, research intern, June 2019 - Aug 2019
 
 ## Selected Awards
 
