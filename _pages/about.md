@@ -26,7 +26,7 @@ Please feel free to reach out via hongjiewang@princeton.edu if you share interes
 
   ![AT-EDM](https://hongjiew.github.io/files/ATEDM.png)
 
-  **Highlight:** We introduce the Attention-driven Training-free Efficient Diffusion Model (**AT-EDM**), a framework that leverages attention maps to perform run-time pruning of redundant tokens during inference **without retraining** **or** performing GPU-intensive **optimization** on a certain loss function. AT-EDM reduces the FLOPs of the state-of-the-art open-source diffusion model, [SD-XL](https://github.com/Stability-AI/generative-models), by **40%** while keeping its FID and CLIP scores. 
+  **Highlight:** We introduce the Attention-driven Training-free Efficient Diffusion Model (**AT-EDM**), a framework that leverages attention maps to perform run-time pruning of redundant tokens during inference **without fine-tuning** **or** performing GPU-intensive **optimization** on a certain loss function. AT-EDM reduces the FLOPs of the state-of-the-art open-source diffusion model, [SD-XL](https://github.com/Stability-AI/generative-models), by **40%** while keeping its FID and CLIP scores. 
 
   [[project webpage](https://atedm.github.io/)] The *arXiv* link is coming soon
 
