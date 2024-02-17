@@ -28,7 +28,7 @@ Please feel free to reach out via hongjiewang@princeton.edu if you share interes
 
   **Highlight:** We introduce the Attention-driven Training-free Efficient Diffusion Model (**AT-EDM**), a framework that leverages attention maps to perform run-time pruning of redundant tokens during inference **without retraining** **or** performing GPU-intensive **optimization** on a certain loss function. AT-EDM reduces the FLOPs of the state-of-the-art open-source diffusion model, [SD-XL](https://github.com/Stability-AI/generative-models), by **40%** while keeping its FID and CLIP scores. 
 
-  The *arXiv* link and project webpage is coming soon
+  [[project webpage](https://atedm.github.io/)] The *arXiv* link is coming soon
 
 - Zero-TPrune: Zero-Shot Token Pruning through Leveraging of the Attention Graph in Pre-Trained Transformers
 
