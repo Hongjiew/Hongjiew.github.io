@@ -70,6 +70,12 @@ Please feel free to reach out via hongjiewang@princeton.edu if you share interes
   
   *IEEE International Symposium on Circuits and Systems (ISCAS) 2020* <span style="color: red;">**(Oral)**</span> [[paper](https://arxiv.org/abs/2003.01551)]
 
+## Academic Service
+
+- Served as a reviewer for
+  - IEEE Internet of Things Journal
+  - IEEE ISCAS 2021
+
 ## Work Experience
 
 - Adobe Research, research scientist intern, May 2023 - present
