@@ -16,11 +16,12 @@ Please feel free to reach out via hongjiewang@princeton.edu if you share interes
 
 ## Recent News
 
+- 2024-02: Zero-TPrune and AT-EDM are accepted to CVPR 2024!
 - 2024-01: Give a Talk to Qualcomm on Zero-TPrune [[slides](https://hongjiew.github.io/files/Talk_Qualcomm.pdf)]
 
 ## Publications and Preprints
 
-- Attention-Driven Training-Free Efficiency Enhancement of Diffusion Models
+- AT-EDM: Attention-Driven Training-Free Efficiency Enhancement of Diffusion Models
 
   **Hongjie Wang**, Difan Liu, Yan Kang, Yijun Li, Zhe Lin, Niraj K. Jha, Yuchen Liu
 
