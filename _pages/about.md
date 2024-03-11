@@ -25,51 +25,51 @@ Please feel free to reach out via hongjiewang@princeton.edu if you share interes
 
   **Hongjie Wang**, Difan Liu, Yan Kang, Yijun Li, Zhe Lin, Niraj K. Jha, Yuchen Liu
 
+  *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2024* [[project](https://atedm.github.io/)] The *arXiv* link is coming soon
+
   ![AT-EDM](https://hongjiew.github.io/files/ATEDM.png)
 
   **Highlight:** We introduce the Attention-driven Training-free Efficient Diffusion Model (**AT-EDM**), a framework that leverages attention maps to perform run-time pruning of redundant tokens during inference **without fine-tuning** **or** performing GPU-intensive **optimization** on a certain loss function. AT-EDM reduces the FLOPs of the state-of-the-art open-source diffusion model, [SD-XL](https://github.com/Stability-AI/generative-models), by **40%** while keeping its FID and CLIP scores. 
-
-  [[project webpage](https://atedm.github.io/)] The *arXiv* link is coming soon
 
 - Zero-TPrune: Zero-Shot Token Pruning through Leveraging of the Attention Graph in Pre-Trained Transformers
 
   **Hongjie Wang**, Bhishma Dedhia, Niraj K. Jha
 
+  *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2024* [[paper](https://arxiv.org/abs/2305.17328)] [[project](https://zerotprune.github.io/)]
+
   ![Zero-TPrune](https://hongjiew.github.io/files/zero-tprune.png)
 
   **Highlight:** We propose Zero-TPrune, the first zero-shot method that considers both the importance and similarity of tokens in performing token pruning. It leverages the attention graph of pre-trained Transformer models to produce an importance distribution for tokens via our proposed Weighted Page Rank (WPR) algorithm. It can be deployed on large Vision Transformers at negligible computational cost. Without any fine-tuning, Zero-TPrune reduces the FLOPs cost of DeiT-S by 34.7% and improves its throughput by 45.3% with only 0.4% accuracy loss.
-
-  *arXiv*:2305.17328 [[paper](https://arxiv.org/abs/2305.17328)] [[project webpage](https://zerotprune.github.io/)]
 
 - SAPIENS: A 64-kb RRAM-Based Non-Volatile Associative Memory for One-Shot Learning and Inference at the Edge
 
   Haitong Li, Wei-Chen Chen, Akash Levy, Ching-Hua Wang, **Hongjie Wang**, Po-Han Chen, Weier Wan, Win-San Khwa, Harry Chuang, Y.-D. Chih, Meng-Fan Chang, H.-S. Philip Wong, Priyanka Raina.
 
+  *IEEE Transactions on Electron Devices (2021)* [[paper](https://ieeexplore.ieee.org/abstract/document/9535369)]
+
   ![SAPIENS](https://hongjiew.github.io/files/SAPIENS.png)
 
   **Highlight:** We present the first chip-level demonstration of one-shot learning with Stanford Associative memory for Programmable, Integrated Edge iNtelligence via life-long learning and Search (SAPIENS), a resistive random access memory (RRAM)-based non-volatile associative memory (AM) chip that serves as the backend for memory-augmented neural networks (MANNs).
-
-  *IEEE Transactions on Electron Devices (2021)* [[paper](https://ieeexplore.ieee.org/abstract/document/9535369)]
 
 - One-Shot Learning with Memory-Augmented Neural Networks Using a 64-kbit, 118 GOPS/W RRAM-Based Non-Volatile Associative Memory
 
   Haitong Li, Wei-Chen Chen, Akash Levy, Ching-Hua Wang, **Hongjie Wang**, Po-Han Chen, Weier Wan, H.-S. Philip Wong, Priyanka Raina
 
+  *IEEE Symposia on VLSI Technology and Circuits (VLSI) 2021* [[paper](https://ieeexplore.ieee.org/abstract/document/9508761)]
+
   <img src="https://hongjiew.github.io/files/one-shot.png" alt="one-shot" width="70%">
 
   **Highlight:** Using only one example per class for 32 unseen classes during on-chip learning, our AM chip achieves ~72% measured inference accuracy on Omniglot as the first chip accuracy report compared to software accuracy (~82%), while reaching 118 GOPS/W for in-memory L1 distance computation and prediction. 
-
-  *IEEE Symposia on VLSI Technology and Circuits (VLSI) 2021* [[paper](https://ieeexplore.ieee.org/abstract/document/9508761)]
 
 - A New MRAM-based Process In-Memory Accelerator for Efficient Neural Network Training with Floating Point Precision
 
   **Hongjie Wang**, Yang Zhao, Chaojian Li, Yue Wang, Yingyan Lin
 
+  *IEEE International Symposium on Circuits and Systems (ISCAS) 2020* <span style="color: red;">**(Oral)**</span> [[paper](https://arxiv.org/abs/2003.01551)]
+  
   <img src="https://hongjiew.github.io/files/SOT-MRAM.png" alt="one-shot" width="70%">
   
   **Highlight:** We propose a SOT-MRAM based digital Process In-Memory accelerator that supports floating point precision. It can achieve 3.3×, 1.8×, and 2.5× improvement in terms of energy, latency, and area, respectively, compared with a state-of-the-art PIM based DNN training accelerator.
-  
-  *IEEE International Symposium on Circuits and Systems (ISCAS) 2020* <span style="color: red;">**(Oral)**</span> [[paper](https://arxiv.org/abs/2003.01551)]
 
 ## Academic Service
 
@@ -79,7 +79,7 @@ Please feel free to reach out via hongjiewang@princeton.edu if you share interes
 
 ## Work Experience
 
-- Adobe Research, research scientist intern, May 2023 - present
+- Adobe Research, research scientist intern, May 2023 - March 2024
 - Stanford University, research intern, June 2020 - Sep 2020
 - Rice University, research intern, June 2019 - Aug 2019
 
