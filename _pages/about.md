@@ -74,6 +74,7 @@ Please feel free to reach out via hongjiewang@princeton.edu if you share interes
 ## Academic Service
 
 - Served as a reviewer for
+  - [Efficient Deep Learning for Computer Vision](https://sites.google.com/view/ecv24) @ CVPR 2024
   - IEEE Internet of Things Journal
   - IEEE ISCAS 2021
 
@@ -92,6 +93,3 @@ Please feel free to reach out via hongjiewang@princeton.edu if you share interes
 - May 4th Scholarship, Peking University, 2018
 - Student of Merits, Peking University, 2017-2021
 - Gold Medal in 33rd Chinese Physics Olympiad, 2016
-
-
-
