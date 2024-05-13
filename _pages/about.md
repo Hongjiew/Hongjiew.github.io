@@ -25,7 +25,7 @@ Please feel free to reach out via hongjiewang@princeton.edu if you share interes
 
   **Hongjie Wang**, Difan Liu, Yan Kang, Yijun Li, Zhe Lin, Niraj K. Jha, Yuchen Liu
 
-  *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2024* [[project](https://atedm.github.io/)] The *arXiv* link is coming soon
+  *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2024* [[paper](https://arxiv.org/abs/2405.05252)] [[project](https://atedm.github.io/)]
 
   ![AT-EDM](https://hongjiew.github.io/files/ATEDM.png)
 
