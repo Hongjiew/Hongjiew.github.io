@@ -16,6 +16,7 @@ Please feel free to reach out via hongjiewang@princeton.edu if you share interes
 
 ## Recent News
 
+- 2024-05: Start my internship at Meta GenAI (Mentor: Dr. [Xiaoliang Dai](https://sites.google.com/view/xiaoliangdai))
 - 2024-02: Zero-TPrune and AT-EDM are accepted to CVPR 2024!
 - 2024-01: Give a Talk to Qualcomm on Zero-TPrune [[slides](https://hongjiew.github.io/files/Talk_Qualcomm.pdf)]
 
@@ -74,12 +75,14 @@ Please feel free to reach out via hongjiewang@princeton.edu if you share interes
 ## Academic Service
 
 - Served as a reviewer for
+  - NeurIPS 2024
   - [Efficient Deep Learning for Computer Vision](https://sites.google.com/view/ecv24) @ CVPR 2024
-  - IEEE Internet of Things Journal
+  - IEEE Internet of Things Journal 
   - IEEE ISCAS 2021
 
 ## Work Experience
 
+- Meta GenAI, research scientist intern, May 2024 - present
 - Adobe Research, research scientist intern, May 2023 - March 2024
 - Stanford University, research intern, June 2020 - Sep 2020
 - Rice University, research intern, June 2019 - Aug 2019
