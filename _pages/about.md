@@ -75,6 +75,7 @@ Please feel free to reach out via hongjiewang@princeton.edu if you share interes
 ## Academic Service
 
 - Served as a reviewer for
+  - [Efficient Deep Learning for Foundation Models](https://sites.google.com/view/efm24/home) @ ECCV 2024
   - NeurIPS 2024
   - [Efficient Deep Learning for Computer Vision](https://sites.google.com/view/ecv24) @ CVPR 2024
   - IEEE Internet of Things Journal 
