@@ -33,7 +33,7 @@ Please feel free to reach out via hongjiewang@princeton.edu if you share interes
   - Supervisor: Prof. [Priyanka Raina](https://priyanka-raina.github.io/)
 - Rice University, Research Assistant, June 2019 - Aug 2019 
   - Topic: Neural Network Training Accelerator
-  - Supervisor: Prof. [Yingyan Lin](https://eiclab.scs.gatech.edu/pages/team.html) (now at GeTech)
+  - Supervisor: Prof. [Yingyan Lin](https://eiclab.scs.gatech.edu/pages/team.html) (now at Georgia Tech)
 
 ## Publications and Preprints
 
