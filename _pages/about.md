@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Hongjie Wang (王泓杰), a third-year Ph.D. candidate in the [Department of Electrical and Computer Engineering](https://ece.princeton.edu/) at Princeton University, supervised by Prof. [Niraj K. Jha](https://scholar.google.com/citations?user=R-z1R84AAAAJ&hl=en&oi=ao). Before that, I received my *B.S. degree with honor* from Peking University (June 2021). Mentored by Dr. [Yuchen Liu](https://lychenyoko.github.io/), I worked as a research scientist intern at [Adobe Research](https://research.adobe.com/). I also worked with Prof. [Yingyan Lin](https://eiclab.scs.gatech.edu/pages/team.html) and Prof. [Priyanka Raina](https://priyanka-raina.github.io/) as a research intern at Rice University and Stanford University, respectively. You can find more information in my [CV](https://hongjiew.github.io/files/resume.pdf). 
+I am Hongjie Wang (王泓杰), a forth-year Ph.D. candidate in the [Department of Electrical and Computer Engineering](https://ece.princeton.edu/) at Princeton University, supervised by Prof. [Niraj K. Jha](https://scholar.google.com/citations?user=R-z1R84AAAAJ&hl=en&oi=ao). Before that, I received my *B.S. degree with honor* from Peking University (June 2021). You can find more information in my [CV](https://hongjiew.github.io/files/resume.pdf). 
 
 My research focuses on the efficiency of Machine Learning models, including but not limited to: (1) Vision Transformers, (2) Diffusion Models, (3) Vision-Language Models (Multimodal Generative Models), and (4) State Space Models. My research aims to make their training and inference more efficient and thus enable scaling them up for generation with higher quality. My recent projects focus on the hardware-agnostic efficiency enhancement of them, but I am also interested in the software-hardware co-design to boost their throughputs.
 
@@ -16,9 +16,16 @@ Please feel free to reach out via hongjiewang@princeton.edu if you share interes
 
 ## Recent News
 
-- 2024-05: Start my internship at Meta GenAI (Mentor: Dr. [Xiaoliang Dai](https://sites.google.com/view/xiaoliangdai))
+- 2024-05: Start my internship at Meta GenAI 
 - 2024-02: Zero-TPrune and AT-EDM are accepted to CVPR 2024!
 - 2024-01: Give a Talk to Qualcomm on Zero-TPrune [[slides](https://hongjiew.github.io/files/Talk_Qualcomm.pdf)]
+
+## Work Experience
+
+- Meta GenAI, Research Scientist Intern, May 2024 - present (Mentor: Dr. [Xiaoliang Dai](https://sites.google.com/view/xiaoliangdai))
+- Adobe Research, Research Scientist Intern, May 2023 - March 2024 (Mentor: Dr. [Yuchen Liu](https://lychenyoko.github.io/))
+- Stanford University, Research Assistant, June 2020 - Sep 2020 (Supervisor: Prof. [Priyanka Raina](https://priyanka-raina.github.io/))
+- Rice University, Research Assistant, June 2019 - Aug 2019 (Supervisor: Prof. [Yingyan Lin](https://eiclab.scs.gatech.edu/pages/team.html))
 
 ## Publications and Preprints
 
@@ -81,13 +88,6 @@ Please feel free to reach out via hongjiewang@princeton.edu if you share interes
   - [Efficient Deep Learning for Computer Vision](https://sites.google.com/view/ecv24) @ CVPR 2024
   - IEEE Internet of Things Journal 
   - IEEE ISCAS 2021
-
-## Work Experience
-
-- Meta GenAI, research scientist intern, May 2024 - present
-- Adobe Research, research scientist intern, May 2023 - March 2024
-- Stanford University, research intern, June 2020 - Sep 2020
-- Rice University, research intern, June 2019 - Aug 2019
 
 ## Selected Awards
 
