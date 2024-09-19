@@ -22,10 +22,18 @@ Please feel free to reach out via hongjiewang@princeton.edu if you share interes
 
 ## Work Experience
 
-- Meta GenAI, Research Scientist Intern, May 2024 - present (Mentor: Dr. [Xiaoliang Dai](https://sites.google.com/view/xiaoliangdai))
-- Adobe Research, Research Scientist Intern, May 2023 - March 2024 (Mentor: Dr. [Yuchen Liu](https://lychenyoko.github.io/))
-- Stanford University, Research Assistant, June 2020 - Sep 2020 (Supervisor: Prof. [Priyanka Raina](https://priyanka-raina.github.io/))
-- Rice University, Research Assistant, June 2019 - Aug 2019 (Supervisor: Prof. [Yingyan Lin](https://eiclab.scs.gatech.edu/pages/team.html))
+- Meta GenAI, Research Scientist Intern, May 2024 - present 
+  - Topic: Efficient Text-to-Video Generation
+  - Mentor: Dr. [Xiaoliang Dai](https://sites.google.com/view/xiaoliangdai) 
+- Adobe Research, Research Scientist Intern, May 2023 - March 2024 
+  - Topic: Efficient Text-to-Image Diffusion Models
+  - Mentor: Dr. [Yuchen Liu](https://lychenyoko.github.io/)
+- Stanford University, Research Assistant, June 2020 - Sep 2020 
+  - Topic: One-Shot Learning Accelerator
+  - Supervisor: Prof. [Priyanka Raina](https://priyanka-raina.github.io/)
+- Rice University, Research Assistant, June 2019 - Aug 2019 
+  - Topic: Neural Network Training Accelerator
+  - Supervisor: Prof. [Yingyan Lin](https://eiclab.scs.gatech.edu/pages/team.html)
 
 ## Publications and Preprints
 
