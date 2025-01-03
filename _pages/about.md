@@ -16,6 +16,7 @@ Please feel free to reach out via hongjiewang@princeton.edu if you share interes
 
 ## Recent News
 
+- 2024-12: Release our latest work LinGen, which provides linear-complexity for video generation
 - 2024-05: Start my internship at Meta GenAI 
 - 2024-02: Zero-TPrune and AT-EDM are accepted to CVPR 2024!
 - 2024-01: Give a Talk to Qualcomm on Zero-TPrune [[slides](https://hongjiew.github.io/files/Talk_Qualcomm.pdf)]
@@ -37,7 +38,17 @@ Please feel free to reach out via hongjiewang@princeton.edu if you share interes
 
 ## Publications and Preprints
 
-- AT-EDM: Attention-Driven Training-Free Efficiency Enhancement of Diffusion Models
+- **LinGen: Towards High-Resolution Minute-Length Text-to-Video Generation with Linear Computational Complexity**
+
+  **Hongjie Wang**, Chih-Yao Ma, Yen-Cheng Liu, Ji Hou, Tao Xu, Jialiang Wang, Felix Juefei-Xu, Yaqiao Luo, Peizhao Zhang, Tingbo Hou, Peter Vajda, Niraj K. Jha, Xiaoliang Dai
+
+  ArXiv preprint [[paper](https://arxiv.org/pdf/2412.09856)] [[project](https://lineargen.github.io/)]
+
+  ![LinGen](https://lineargen.github.io/static/images/overview.png)
+
+  **Highlight:** For the first time, we demonstrate **high-resolution 68-second video generation at 16fps on a single GPU** — without relying on autoregressive extensions, super-resolution, or frame interpolation. Our approach achieves **linear computational complexity**, offering **up to 15x speed-up** over the standard DiT architecture, while delivering **improved video quality and better text alignment**. We believe this linear complexity provides extraordinary scalability, paving the way to hour-length movie generation. 
+
+- **AT-EDM: Attention-Driven Training-Free Efficiency Enhancement of Diffusion Models**
 
   **Hongjie Wang**, Difan Liu, Yan Kang, Yijun Li, Zhe Lin, Niraj K. Jha, Yuchen Liu
 
@@ -47,7 +58,7 @@ Please feel free to reach out via hongjiewang@princeton.edu if you share interes
 
   **Highlight:** We introduce the Attention-driven Training-free Efficient Diffusion Model (**AT-EDM**), a framework that leverages attention maps to perform run-time pruning of redundant tokens during inference **without fine-tuning** **or** performing GPU-intensive **optimization** on a certain loss function. AT-EDM reduces the FLOPs of the state-of-the-art open-source diffusion model, [SD-XL](https://github.com/Stability-AI/generative-models), by **40%** while keeping its FID and CLIP scores. 
 
-- Zero-TPrune: Zero-Shot Token Pruning through Leveraging of the Attention Graph in Pre-Trained Transformers
+- **Zero-TPrune: Zero-Shot Token Pruning through Leveraging of the Attention Graph in Pre-Trained Transformers**
 
   **Hongjie Wang**, Bhishma Dedhia, Niraj K. Jha
 
@@ -57,7 +68,9 @@ Please feel free to reach out via hongjiewang@princeton.edu if you share interes
 
   **Highlight:** We propose Zero-TPrune, the first zero-shot method that considers both the importance and similarity of tokens in performing token pruning. It leverages the attention graph of pre-trained Transformer models to produce an importance distribution for tokens via our proposed Weighted Page Rank (WPR) algorithm. It can be deployed on large Vision Transformers at negligible computational cost. Without any fine-tuning, Zero-TPrune reduces the FLOPs cost of DeiT-S by 34.7% and improves its throughput by 45.3% with only 0.4% accuracy loss.
 
-- SAPIENS: A 64-kb RRAM-Based Non-Volatile Associative Memory for One-Shot Learning and Inference at the Edge
+##### Projects before My PhD: Software-and-Hardware Co-Design for Machine Learning Acceleration
+
+- **SAPIENS: A 64-kb RRAM-Based Non-Volatile Associative Memory for One-Shot Learning and Inference at the Edge**
 
   Haitong Li, Wei-Chen Chen, Akash Levy, Ching-Hua Wang, **Hongjie Wang**, Po-Han Chen, Weier Wan, Win-San Khwa, Harry Chuang, Y.-D. Chih, Meng-Fan Chang, H.-S. Philip Wong, Priyanka Raina.
 
@@ -67,7 +80,7 @@ Please feel free to reach out via hongjiewang@princeton.edu if you share interes
 
   **Highlight:** We present the first chip-level demonstration of one-shot learning with Stanford Associative memory for Programmable, Integrated Edge iNtelligence via life-long learning and Search (SAPIENS), a resistive random access memory (RRAM)-based non-volatile associative memory (AM) chip that serves as the backend for memory-augmented neural networks (MANNs).
 
-- One-Shot Learning with Memory-Augmented Neural Networks Using a 64-kbit, 118 GOPS/W RRAM-Based Non-Volatile Associative Memory
+- **One-Shot Learning with Memory-Augmented Neural Networks Using a 64-kbit, 118 GOPS/W RRAM-Based Non-Volatile Associative Memory**
 
   Haitong Li, Wei-Chen Chen, Akash Levy, Ching-Hua Wang, **Hongjie Wang**, Po-Han Chen, Weier Wan, H.-S. Philip Wong, Priyanka Raina
 
@@ -77,19 +90,20 @@ Please feel free to reach out via hongjiewang@princeton.edu if you share interes
 
   **Highlight:** Using only one example per class for 32 unseen classes during on-chip learning, our AM chip achieves ~72% measured inference accuracy on Omniglot as the first chip accuracy report compared to software accuracy (~82%), while reaching 118 GOPS/W for in-memory L1 distance computation and prediction. 
 
-- A New MRAM-based Process In-Memory Accelerator for Efficient Neural Network Training with Floating Point Precision
+- **A New MRAM-based Process In-Memory Accelerator for Efficient Neural Network Training with Floating Point Precision**
 
   **Hongjie Wang**, Yang Zhao, Chaojian Li, Yue Wang, Yingyan Lin
 
   *IEEE International Symposium on Circuits and Systems (ISCAS) 2020* <span style="color: red;">**(Oral)**</span> [[paper](https://arxiv.org/abs/2003.01551)]
-  
+
   <img src="https://hongjiew.github.io/files/SOT-MRAM.png" alt="one-shot" width="70%">
-  
+
   **Highlight:** We propose a SOT-MRAM based digital Process In-Memory accelerator that supports floating point precision. It can achieve 3.3×, 1.8×, and 2.5× improvement in terms of energy, latency, and area, respectively, compared with a state-of-the-art PIM based DNN training accelerator.
 
 ## Academic Service
 
 - Served as a reviewer for
+  - CVPR 2025
   - AISTATS 2025
   - IEEE Transactions on Neural Networks and Learning Systems
   - [Efficient Deep Learning for Foundation Models](https://sites.google.com/view/efm24/home) @ ECCV 2024
