@@ -23,8 +23,8 @@ Please feel free to reach out via hongjiewang@princeton.edu if you share interes
 
 ## Work Experience
 
-- Meta GenAI [MovieGen Team](https://ai.meta.com/research/movie-gen/), Research Scientist Intern, May 2024 - present 
-  - Topic: Efficient Text-to-Video Generation
+- Meta GenAI [MovieGen Team](https://ai.meta.com/research/movie-gen/), Research Scientist Intern, May 2024 - Dec 2024 
+  - Topic: Text-to-Video Generation with Linear Computational Complexity
   - Mentor: Dr. [Xiaoliang Dai](https://sites.google.com/view/xiaoliangdai) 
 - Adobe Research, Research Scientist Intern, May 2023 - March 2024 
   - Topic: Efficient Text-to-Image Diffusion Models
