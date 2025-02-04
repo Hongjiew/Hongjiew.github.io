@@ -103,6 +103,7 @@ Please feel free to reach out via hongjiewang@princeton.edu if you share interes
 ## Academic Service
 
 - Served as a reviewer for
+  - International Journal of Computer Vision
   - CVPR 2025
   - AISTATS 2025
   - IEEE Transactions on Neural Networks and Learning Systems
