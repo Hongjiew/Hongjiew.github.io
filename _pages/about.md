@@ -14,17 +14,20 @@ My research focuses on the efficiency of Machine Learning models, including but 
 
 Please feel free to reach out via hongjiewang@princeton.edu if you share interests similar to mine! I am glad to chat and explore opportunities for collaboration.
 
+<span style="color: red;">I will be graduating in early fall this year and am actively pursuing research scientist opportunities in the industry. If you’d like to discuss potential roles or collaborations, please feel free to get in touch. </span> 
+
 ## Recent News
 
+- 2025-01: Give a talk to Stability AI on LinGen
 - 2024-12: Release our latest work LinGen, which provides linear-complexity for video generation
 - 2024-05: Start my internship at Meta GenAI 
 - 2024-02: Zero-TPrune and AT-EDM are accepted to CVPR 2024!
-- 2024-01: Give a Talk to Qualcomm on Zero-TPrune [[slides](https://hongjiew.github.io/files/Talk_Qualcomm.pdf)]
+- 2024-01: Give a talk to Qualcomm on Zero-TPrune [[slides](https://hongjiew.github.io/files/Talk_Qualcomm.pdf)]
 
 ## Work Experience
 
 - Meta GenAI [MovieGen Team](https://ai.meta.com/research/movie-gen/), Research Scientist Intern, May 2024 - Dec 2024 
-  - Topic: Text-to-Video Generation with Linear Computational Complexity
+  - Topic: Minute-Length Text-to-Video Generation with Linear Computational Complexity
   - Mentor: Dr. [Xiaoliang Dai](https://sites.google.com/view/xiaoliangdai) 
 - Adobe Research, Research Scientist Intern, May 2023 - March 2024 
   - Topic: Efficient Text-to-Image Diffusion Models
