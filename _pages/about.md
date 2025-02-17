@@ -20,9 +20,10 @@ Please feel free to reach out via hongjiewang@princeton.edu if you share interes
 
 - 2025-01: Give a talk to Stability AI on LinGen
 - 2024-12: Release our latest work LinGen, which provides linear-complexity for video generation
-- 2024-05: Start my internship at Meta GenAI 
+- 2024-05: Start my internship at Meta GenAI MovieGen Team
 - 2024-02: Zero-TPrune and AT-EDM are accepted to CVPR 2024!
 - 2024-01: Give a talk to Qualcomm on Zero-TPrune [[slides](https://hongjiew.github.io/files/Talk_Qualcomm.pdf)]
+- 2023-05: Start my internship at Adobe Research
 
 ## Work Experience
 
@@ -71,7 +72,7 @@ Please feel free to reach out via hongjiewang@princeton.edu if you share interes
 
   **Highlight:** We propose Zero-TPrune, the first zero-shot method that considers both the importance and similarity of tokens in performing token pruning. It leverages the attention graph of pre-trained Transformer models to produce an importance distribution for tokens via our proposed Weighted Page Rank (WPR) algorithm. It can be deployed on large Vision Transformers at negligible computational cost. Without any fine-tuning, Zero-TPrune reduces the FLOPs cost of DeiT-S by 34.7% and improves its throughput by 45.3% with only 0.4% accuracy loss.
 
-#### Projects before My PhD: Software-and-Hardware Co-Design for Machine Learning Acceleration
+#### Pre-PhD: Software-and-Hardware Co-Design for Machine Learning Acceleration
 
 - **SAPIENS: A 64-kb RRAM-Based Non-Volatile Associative Memory for One-Shot Learning and Inference at the Edge**
 
@@ -105,7 +106,9 @@ Please feel free to reach out via hongjiewang@princeton.edu if you share interes
 
 ## Academic Service
 
-- Served as a reviewer for
+- Served (or serving) as a reviewer for
+  - NeurIPS 2025
+  - ICCV 2025
   - International Journal of Computer Vision
   - CVPR 2025
   - AISTATS 2025
