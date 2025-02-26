@@ -18,6 +18,7 @@ Please feel free to reach out via hongjiewang@princeton.edu if you share interes
 
 ## Recent News
 
+- 2025-02: LinGen is accepted to CVPR 2025!
 - 2025-01: Give a talk to Stability AI on LinGen
 - 2024-12: Release our latest work LinGen, which provides linear-complexity for video generation
 - 2024-05: Start my internship at Meta GenAI MovieGen Team
@@ -46,7 +47,7 @@ Please feel free to reach out via hongjiewang@princeton.edu if you share interes
 
   **Hongjie Wang**, Chih-Yao Ma, Yen-Cheng Liu, Ji Hou, Tao Xu, Jialiang Wang, Felix Juefei-Xu, Yaqiao Luo, Peizhao Zhang, Tingbo Hou, Peter Vajda, Niraj K. Jha, Xiaoliang Dai
 
-  ArXiv preprint [[paper](https://arxiv.org/pdf/2412.09856)] [[project](https://lineargen.github.io/)]
+  *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2025* [[paper](https://arxiv.org/pdf/2412.09856)] [[project](https://lineargen.github.io/)]
 
   ![LinGen](https://lineargen.github.io/static/images/overview.png)
 
