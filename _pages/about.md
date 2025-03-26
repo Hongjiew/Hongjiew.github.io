@@ -108,6 +108,7 @@ Please feel free to reach out via hongjiewang@princeton.edu if you share interes
 ## Academic Service
 
 - Served (or serving) as a reviewer for
+  - COCOON 2025
   - NeurIPS 2025
   - ICCV 2025
   - International Journal of Computer Vision
