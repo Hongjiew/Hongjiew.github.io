@@ -14,8 +14,6 @@ My research focuses on the efficiency of Machine Learning models, including but 
 
 Please feel free to reach out via hongjiewang@princeton.edu if you share interests similar to mine! I am glad to chat and explore opportunities for collaboration.
 
-<span style="color: red;">I will be graduating in early fall this year and am actively pursuing research scientist opportunities in the industry. If you’d like to discuss potential roles or collaborations, please feel free to get in touch. </span> 
-
 ## Recent News
 
 - 2025-02: LinGen is accepted to CVPR 2025!
