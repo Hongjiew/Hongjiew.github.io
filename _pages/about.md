@@ -45,7 +45,7 @@ Please feel free to reach out via hongjiewang@princeton.edu if you share interes
 
   **Hongjie Wang**, Chih-Yao Ma, Yen-Cheng Liu, Ji Hou, Tao Xu, Jialiang Wang, Felix Juefei-Xu, Yaqiao Luo, Peizhao Zhang, Tingbo Hou, Peter Vajda, Niraj K. Jha, Xiaoliang Dai
 
-  *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2025* [[paper](https://arxiv.org/pdf/2412.09856)] [[project](https://lineargen.github.io/)]
+  *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2025* [[paper](https://arxiv.org/pdf/2412.09856)] [[project](https://lineargen.github.io/)] [[code](https://github.com/jha-lab/LinGen)]
 
   ![LinGen](https://lineargen.github.io/static/images/overview.png)
 
@@ -71,7 +71,7 @@ Please feel free to reach out via hongjiewang@princeton.edu if you share interes
 
   **Highlight:** We propose Zero-TPrune, the first zero-shot method that considers both the importance and similarity of tokens in performing token pruning. It leverages the attention graph of pre-trained Transformer models to produce an importance distribution for tokens via our proposed Weighted Page Rank (WPR) algorithm. It can be deployed on large Vision Transformers at negligible computational cost. Without any fine-tuning, Zero-TPrune reduces the FLOPs cost of DeiT-S by 34.7% and improves its throughput by 45.3% with only 0.4% accuracy loss.
 
-#### Pre-PhD: Software-and-Hardware Co-Design for Machine Learning Acceleration
+### Pre-PhD: Software-and-Hardware Co-Design for ML Acceleration
 
 - **SAPIENS: A 64-kb RRAM-Based Non-Volatile Associative Memory for One-Shot Learning and Inference at the Edge**
 
@@ -122,6 +122,7 @@ Please feel free to reach out via hongjiewang@princeton.edu if you share interes
 
 ## Selected Awards
 
+- Outstanding Reviewer of CVPR 2025, IEEE/CVF, 2025
 - Fellowship in Natural Science and Engineering, Princeton University, 2021
 - Excellent Graduate, Peking University, 2021
 - Xiaomi Scholarship, Peking University, 2020
