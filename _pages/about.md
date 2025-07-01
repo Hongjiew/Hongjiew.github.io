@@ -106,6 +106,7 @@ Please feel free to reach out via hongjiewang@princeton.edu if you share interes
 ## Academic Service
 
 - Served (or serving) as a reviewer for
+  - WACV 2026
   - SIGGRAPH Asia 2025
   - COCOON 2025
   - NeurIPS 2025
