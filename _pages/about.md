@@ -16,6 +16,7 @@ Please feel free to reach out via hongjiewang@princeton.edu if you share interes
 
 ## Recent News
 
+- 2025-06: Selected as the Outstanding Reviewer of CVPR 2025
 - 2025-02: LinGen is accepted to CVPR 2025!
 - 2025-01: Give a talk to Stability AI on LinGen
 - 2024-12: Release our latest work LinGen, which provides linear-complexity for video generation
@@ -46,6 +47,8 @@ Please feel free to reach out via hongjiewang@princeton.edu if you share interes
   **Hongjie Wang**, Chih-Yao Ma, Yen-Cheng Liu, Ji Hou, Tao Xu, Jialiang Wang, Felix Juefei-Xu, Yaqiao Luo, Peizhao Zhang, Tingbo Hou, Peter Vajda, Niraj K. Jha, Xiaoliang Dai
 
   *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2025* [[paper](https://arxiv.org/pdf/2412.09856)] [[project](https://lineargen.github.io/)] [[code](https://github.com/jha-lab/LinGen)]
+
+  *Journal Extension (preprint)* [[paper](https://www.researchsquare.com/article/rs-7159495/v1)]
 
   ![LinGen](https://lineargen.github.io/static/images/overview.png)
 
@@ -109,15 +112,14 @@ Please feel free to reach out via hongjiewang@princeton.edu if you share interes
   - WACV 2026
   - SIGGRAPH Asia 2025
   - COCOON 2025
-  - NeurIPS 2025
   - ICCV 2025
-  - International Journal of Computer Vision
   - CVPR 2025
-  - AISTATS 2025
-  - IEEE Transactions on Neural Networks and Learning Systems
+  - NeurIPS 2024, 2025
+  - AISTATS 2025, 2026
   - [Efficient Deep Learning for Foundation Models](https://sites.google.com/view/efm24/home) @ ECCV 2024
-  - NeurIPS 2024
   - [Efficient Deep Learning for Computer Vision](https://sites.google.com/view/ecv24) @ CVPR 2024
+  - International Journal of Computer Vision
+  - IEEE Transactions on Neural Networks and Learning Systems
   - IEEE Internet of Things Journal 
   - IEEE ISCAS 2021
 
