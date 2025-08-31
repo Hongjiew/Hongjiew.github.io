@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Hongjie Wang (王泓杰), a forth-year Ph.D. candidate in the [Department of Electrical and Computer Engineering](https://ece.princeton.edu/) at Princeton University, supervised by Prof. [Niraj K. Jha](https://scholar.google.com/citations?user=R-z1R84AAAAJ&hl=en&oi=ao). Before that, I received my *B.S. degree with honor* from Peking University (June 2021). You can find more information in my [CV](https://hongjiew.github.io/files/resume.pdf). 
+I am Hongjie Wang (王泓杰), a final-year Ph.D. candidate in the [Department of Electrical and Computer Engineering](https://ece.princeton.edu/) at Princeton University, supervised by Prof. [Niraj K. Jha](https://scholar.google.com/citations?user=R-z1R84AAAAJ&hl=en&oi=ao). Before that, I received my *B.S. degree with honor* from Peking University (June 2021). You can find more information in my [CV](https://hongjiew.github.io/files/resume.pdf). 
 
 My research focuses on the efficiency of Machine Learning models, including but not limited to: (1) Vision Transformers, (2) Diffusion Models, (3) Vision-Language Models (Multimodal Generative Models), and (4) State Space Models. My research aims to make their training and inference more efficient and thus enable scaling them up for generation with higher quality. My recent projects focus on the hardware-agnostic efficiency enhancement of them, but I am also interested in the software-hardware co-design to boost their throughputs.
 
