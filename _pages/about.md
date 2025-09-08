@@ -109,18 +109,18 @@ Please feel free to reach out via hongjiewang@princeton.edu if you share interes
 ## Academic Service
 
 - Served (or serving) as a reviewer for
-  - WACV 2026
+  - CVPR 2024, 2025
   - SIGGRAPH Asia 2025
-  - COCOON 2025
+  - WACV 2026
   - ICCV 2025
-  - CVPR 2025
+  - ECCV 2024
   - NeurIPS 2024, 2025
   - AISTATS 2025, 2026
-  - [Efficient Deep Learning for Foundation Models](https://sites.google.com/view/efm24/home) @ ECCV 2024
-  - [Efficient Deep Learning for Computer Vision](https://sites.google.com/view/ecv24) @ CVPR 2024
-  - International Journal of Computer Vision
-  - IEEE Transactions on Neural Networks and Learning Systems
-  - IEEE Internet of Things Journal 
+  - COCOON 2025
+  - IEEE Transactions on Image Processing (TIP)
+  - International Journal of Computer Vision (IJCV)
+  - IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
+  - IEEE Internet of Things Journal (IoT-J)
   - IEEE ISCAS 2021
 
 ## Selected Awards
