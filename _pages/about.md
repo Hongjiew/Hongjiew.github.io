@@ -109,7 +109,7 @@ Please feel free to reach out via hongjiewang@princeton.edu if you share interes
 ## Academic Service
 
 - Served (or serving) as a reviewer for
-  - CVPR 2024, 2025
+  - CVPR 2024, 2025, 2026
   - SIGGRAPH Asia 2025
   - WACV 2026
   - ICCV 2025
