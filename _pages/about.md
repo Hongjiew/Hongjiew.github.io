@@ -12,7 +12,7 @@ I am Hongjie Wang (王泓杰), a final-year Ph.D. candidate in the [Department o
 
 My research focuses on the efficiency of Machine Learning models, including but not limited to: (1) Vision Transformers, (2) Diffusion Models, (3) Vision-Language Models (Multimodal Generative Models), and (4) State Space Models. My research aims to make their training and inference more efficient and thus enable scaling them up for generation with higher quality. My recent projects focus on the hardware-agnostic efficiency enhancement of them, but I am also interested in the software-hardware co-design to boost their throughputs.
 
-Please feel free to reach out via hongjiewang@princeton.edu if you share interests similar to mine! I am glad to chat and explore opportunities for collaboration.
+Please feel free to reach out via [hongjiewang@princeton.edu](mailto:hongjiewang@princeton.edu) if you share interests similar to mine! I am glad to chat and explore opportunities for collaboration.
 
 ## Recent News
 
