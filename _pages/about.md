@@ -113,7 +113,7 @@ Please feel free to reach out via [hongjiewang@princeton.edu](mailto:hongjiewang
   - SIGGRAPH Asia 2025
   - WACV 2026
   - ICCV 2025
-  - ECCV 2024
+  - ECCV 2024, 2026
   - NeurIPS 2024, 2025
   - AISTATS 2025, 2026
   - COCOON 2025
