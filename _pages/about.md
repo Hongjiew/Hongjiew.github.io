@@ -111,9 +111,10 @@ Please feel free to reach out via [hongjiewang@princeton.edu](mailto:hongjiewang
 - Served (or serving) as a reviewer for
   - CVPR 2024, 2025, 2026
   - SIGGRAPH Asia 2025
-  - WACV 2026
-  - ICCV 2025
   - ECCV 2024, 2026
+  - ICCV 2025
+  - BMVC 2026
+  - WACV 2026
   - NeurIPS 2024, 2025
   - AISTATS 2025, 2026
   - COCOON 2025
