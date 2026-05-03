@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Hongjie Wang"
   avatar           : "HongjieWang.png"
-  bio              : "PhD candidate in ECE @ Princeton University"
-  location         : "Princeton, NJ, USA"
+  bio              : "Research Scientist @ Google DeepMind"
+  location         : "Mountain View, CA, USA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=9tjKQBMAAAAJ&hl=en&oi=ao"
-  email            : "hongjiewang@princeton.edu"
+  googlescholar    : "https://scholar.google.com/citations?user=_Iib7ecAAAAJ&hl=en&authuser=2&oi=ao"
+  email            : "hongjiewang09@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
