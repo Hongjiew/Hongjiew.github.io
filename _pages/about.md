@@ -8,14 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I am Hongjie Wang (王泓杰), a final-year Ph.D. candidate in the [Department of Electrical and Computer Engineering](https://ece.princeton.edu/) at Princeton University, supervised by Prof. [Niraj K. Jha](https://scholar.google.com/citations?user=R-z1R84AAAAJ&hl=en&oi=ao). Before that, I received my *B.S. degree with honor* from Peking University (June 2021). You can find more information in my [CV](https://hongjiew.github.io/files/resume.pdf). 
+I am Hongjie Wang (王泓杰), a Research Scientist at Google DeepMind, working on the efficiency-focused pre-training and post-training of video generative models and world models (e.g., Veo and Genie models). I obtained my Ph.D. degree in the ECE department at Princeton University, supervised by Prof. [Niraj K. Jha](https://scholar.google.com/citations?user=R-z1R84AAAAJ&hl=en&oi=ao). Before that, I received my *B.S. degree with honor* from Peking University (June 2021). You can find more information in my [CV](https://hongjiew.github.io/files/resume.pdf). 
 
-My research focuses on the efficiency of Machine Learning models, including but not limited to: (1) Vision Transformers, (2) Diffusion Models, (3) Vision-Language Models (Multimodal Generative Models), and (4) State Space Models. My research aims to make their training and inference more efficient and thus enable scaling them up for generation with higher quality. My recent projects focus on the hardware-agnostic efficiency enhancement of them, but I am also interested in the software-hardware co-design to boost their throughputs.
-
-Please feel free to reach out via [hongjiewang@princeton.edu](mailto:hongjiewang@princeton.edu) if you share interests similar to mine! I am glad to chat and explore opportunities for collaboration.
+My research focuses on the efficiency of large vision models, including but not limited to: (1) Vision Transformers, (2) Diffusion Models, and (3) Vision-Language Models (Multimodal Understanding and Generation Models). My research aims to make their training and inference more efficient and thus enable scaling them up for better performance. 
 
 ## Recent News
 
+- 2025-12: Started to work as a research scientist at Google DeepMind
+- 2025-07: Started to work as a research scientist at Meta Superintelligence Labs
 - 2025-06: Selected as the Outstanding Reviewer of CVPR 2025
 - 2025-02: LinGen is accepted to CVPR 2025!
 - 2025-01: Give a talk to Stability AI on LinGen
@@ -26,6 +26,14 @@ Please feel free to reach out via [hongjiewang@princeton.edu](mailto:hongjiewang
 - 2023-05: Start my internship at Adobe Research
 
 ## Work Experience
+
+- Google DeepMind, Research Scientist, Dec 2025 - present
+  - Team: GenMedia
+  - Topic: Efficiency-focused training for video generative models and world models
+  
+- Meta Superintelligence Labs, Research Scientist, July 2025 - Dec 2025
+  - Team: Multimedia Generation
+  - Topic: VLM-powered text-to-image and image-to-image hybrid pre-training
 
 - Meta GenAI [MovieGen Team](https://ai.meta.com/research/movie-gen/), Research Scientist Intern, May 2024 - Dec 2024 
   - Topic: Minute-Length Text-to-Video Generation with Linear Computational Complexity
@@ -41,6 +49,16 @@ Please feel free to reach out via [hongjiewang@princeton.edu](mailto:hongjiewang
   - Supervisor: Prof. [Yingyan Lin](https://eiclab.scs.gatech.edu/pages/team.html) (now at Georgia Tech)
 
 ## Publications and Preprints
+
+- **LinMU: Multimodal Understanding Made Linear** 
+
+  **Hongjie Wang**, Niraj K. Jha
+
+  *Transactions on Machine Learning Research (TMLR)* [paper]
+
+  ![LinMU](https://hongjiew.github.io/files/LinMU.png)
+
+  **Highlight:** We propose a Vision-Language Model (VLM) design that **achieves linear complexity** without using any quadratic-complexity modules while maintaining the performance of global-attention-based VLMs. We further develop a **three-stage distillation framework** that transforms pre-trained VLMs to our proposed linear-complexity design at low cost. LinMU matches the performance of teacher models, yet **reduces Time-To-First-Token (TTFT) by up to 2.7x** and **improves token throughput by up to 9.0x** on minute-length videos. 
 
 - **LinGen: Towards High-Resolution Minute-Length Text-to-Video Generation with Linear Computational Complexity**
 
@@ -82,8 +100,6 @@ Please feel free to reach out via [hongjiewang@princeton.edu](mailto:hongjiewang
 
   *IEEE Transactions on Electron Devices (2021)* [[paper](https://ieeexplore.ieee.org/abstract/document/9535369)]
 
-  ![SAPIENS](https://hongjiew.github.io/files/SAPIENS.png)
-
   **Highlight:** We present the first chip-level demonstration of one-shot learning with Stanford Associative memory for Programmable, Integrated Edge iNtelligence via life-long learning and Search (SAPIENS), a resistive random access memory (RRAM)-based non-volatile associative memory (AM) chip that serves as the backend for memory-augmented neural networks (MANNs).
 
 - **One-Shot Learning with Memory-Augmented Neural Networks Using a 64-kbit, 118 GOPS/W RRAM-Based Non-Volatile Associative Memory**
@@ -92,8 +108,6 @@ Please feel free to reach out via [hongjiewang@princeton.edu](mailto:hongjiewang
 
   *IEEE Symposia on VLSI Technology and Circuits (VLSI) 2021* [[paper](https://ieeexplore.ieee.org/abstract/document/9508761)]
 
-  <img src="https://hongjiew.github.io/files/one-shot.png" alt="one-shot" width="70%">
-
   **Highlight:** Using only one example per class for 32 unseen classes during on-chip learning, our AM chip achieves ~72% measured inference accuracy on Omniglot as the first chip accuracy report compared to software accuracy (~82%), while reaching 118 GOPS/W for in-memory L1 distance computation and prediction. 
 
 - **A New MRAM-based Process In-Memory Accelerator for Efficient Neural Network Training with Floating Point Precision**
@@ -101,8 +115,6 @@ Please feel free to reach out via [hongjiewang@princeton.edu](mailto:hongjiewang
   **Hongjie Wang**, Yang Zhao, Chaojian Li, Yue Wang, Yingyan Lin
 
   *IEEE International Symposium on Circuits and Systems (ISCAS) 2020* <span style="color: red;">**(Oral)**</span> [[paper](https://arxiv.org/abs/2003.01551)]
-
-  <img src="https://hongjiew.github.io/files/SOT-MRAM.png" alt="one-shot" width="70%">
 
   **Highlight:** We propose a SOT-MRAM based digital Process In-Memory accelerator that supports floating point precision. It can achieve 3.3×, 1.8×, and 2.5× improvement in terms of energy, latency, and area, respectively, compared with a state-of-the-art PIM based DNN training accelerator.
 
