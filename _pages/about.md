@@ -54,7 +54,7 @@ My research focuses on the efficiency of large vision models, including but not 
 
   **Hongjie Wang**, Niraj K. Jha
 
-  *Transactions on Machine Learning Research (TMLR)* [paper]
+  *Transactions on Machine Learning Research (TMLR)* [[paper](https://openreview.net/pdf?id=6BYdTSNrab)]
 
   ![LinMU](https://hongjiew.github.io/files/LinMU.png)
 
