@@ -138,6 +138,7 @@ My research focuses on the efficiency of large vision models, including but not 
 
 ## Selected Awards
 
+- Outstanding Reviewer of CVPR 2026, IEEE/CVF, 2026
 - Outstanding Reviewer of CVPR 2025, IEEE/CVF, 2025
 - Fellowship in Natural Science and Engineering, Princeton University, 2021
 - Excellent Graduate, Peking University, 2021
