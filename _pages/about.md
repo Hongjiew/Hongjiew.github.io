@@ -126,6 +126,7 @@ My research focuses on the efficiency of large vision models, including but not 
   - SIGGRAPH Asia 2025
   - ECCV 2024, 2026
   - ICCV 2025
+  - AAAI 2027
   - BMVC 2026
   - WACV 2026
   - AISTATS 2025, 2026
