@@ -128,8 +128,8 @@ My research focuses on the efficiency of large vision models, including but not 
   - ICCV 2025
   - AAAI 2027
   - BMVC 2026
-  - WACV 2026
-  - AISTATS 2025, 2026
+  - WACV 2026, 2027
+  - AISTATS 2025, 2026, 2027
   - COCOON 2025
   - IEEE Transactions on Image Processing (TIP)
   - International Journal of Computer Vision (IJCV)
